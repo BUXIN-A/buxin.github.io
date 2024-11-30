@@ -4,7 +4,16 @@
   <url>
     <loc>https://buxin.us.kg/5b201d82/</loc>
     
-    <lastmod>2024-11-29</lastmod>
+    <lastmod>2024-11-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://buxin.us.kg/d075ca82/</loc>
+    
+    <lastmod>2024-11-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,43 +130,78 @@
 
   <url>
     <loc>https://buxin.us.kg/</loc>
-    <lastmod>2024-11-29</lastmod>
+    <lastmod>2024-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://buxin.us.kg/tags/Aplayer/</loc>
+    <lastmod>2024-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://buxin.us.kg/tags/Dplayer/</loc>
+    <lastmod>2024-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://buxin.us.kg/tags/Bilibili/</loc>
+    <lastmod>2024-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://buxin.us.kg/tags/Audio/</loc>
+    <lastmod>2024-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://buxin.us.kg/tags/Video/</loc>
+    <lastmod>2024-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://buxin.us.kg/tags/Blog/</loc>
-    <lastmod>2024-11-29</lastmod>
+    <lastmod>2024-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://buxin.us.kg/tags/Music/</loc>
-    <lastmod>2024-11-29</lastmod>
+    <lastmod>2024-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://buxin.us.kg/tags/English/</loc>
-    <lastmod>2024-11-29</lastmod>
+    <lastmod>2024-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://buxin.us.kg/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-11-29</lastmod>
+    <lastmod>2024-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://buxin.us.kg/tags/%E7%BB%83%E4%B9%A0/</loc>
-    <lastmod>2024-11-29</lastmod>
+    <lastmod>2024-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -166,14 +210,14 @@
   
   <url>
     <loc>https://buxin.us.kg/categories/Blog/</loc>
-    <lastmod>2024-11-29</lastmod>
+    <lastmod>2024-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://buxin.us.kg/categories/Music/</loc>
-    <lastmod>2024-11-29</lastmod>
+    <lastmod>2024-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
