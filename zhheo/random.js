@@ -1,1 +1,1 @@
-var posts=["/d075ca82/","/9e59ef80/","/5b201d82/"];function toRandomPost(){window.open(posts[Math.floor(Math.random() * posts.length)],"_self");};
+var posts=["/d075ca82/","/9e59ef80/","/375da389/","/10d0076d/","/5b201d82/","/4567c6ba/"];function toRandomPost(){window.open(posts[Math.floor(Math.random() * posts.length)],"_self");};
